@@ -1,4 +1,4 @@
-# LuriaCompiler
+# luria-compiler
 This is the implementation of a compiler in C for a simple imperative language named Luria.
 
 <p align="center">
